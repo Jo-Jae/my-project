@@ -1,4 +1,4 @@
-import Card from "./CardList";
+import Card from "./Card";
 
 const CardList = () => {
   return (
@@ -12,7 +12,9 @@ const CardList = () => {
       <Card />
       <Card />
       <Card />
+      <Card />
     </ul>
   );
 };
+
 export default CardList;

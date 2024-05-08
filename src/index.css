@@ -4,6 +4,6 @@
 
 @layer components {
   .button-style {
-    @apply bg-purple-100 hover:bg-purple-200 rounded-md border-2 border-purple-300 p-2;
+    @apply bg-pink-100 hover:bg-purple-200 rounded-md border-2 border-purple-300 p-2;
   }
 }
